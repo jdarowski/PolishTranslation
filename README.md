@@ -1,3 +1,6 @@
+## Polish translation
+This repository has been forked from the official English Translation Repository and shall follow its changes.
+
 ##NOTICE (Updated 07-27-2015)
 
 We’d like to thank our Contributors in helping us shape the English version of Tree of Savior. 
