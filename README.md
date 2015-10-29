@@ -1,27 +1,31 @@
-
-## Polish translation
+# Polish translation
 This repository has been forked from the official English Translation Repository and shall follow its changes.
 
-## NOTICE (Updated 08-08-2015)
+##
+Proszę wszystkich o __niepoprawianie__ już przetłumaczonych fraz zarówno w referencji, jak i właściwym tłumaczeniu. Jeśli uważasz, że dana fraza powinna być przetłumaczona w inny sposób, **napisz o tym w [zagadnieniach](issues)** zanim cokolwiek zmienisz. Szanuj pracę innych i współpracuj z nimi.
 
-
+##NOTICE (Updated 20-10-2015)
+<br>
+**GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
-**DURING CBT, PLEASE SEND YOUR PULL REQUESTS ONLY FOR THOSE EDITED USING REAL TIME TRANSLATION, RATHER THAN SIMPLY READING IT OFF THE FILES**
+You may check the list of those who qualify for the Beta Keys [**HERE**](https://github.com/Treeofsavior/EnglishTranslation/issues/1266)
 
-**YOU MAY CHECK THE ISSUES FOR INSTRUCTIONS ON HOW TO ENABLE REAL TIME TRANSLATION**
+Thank you and please continue to send us your support and interest for Tree of Savior.
 
-<br>
+1. Latest translations have been updated for 2nd iCBT. (**NEW**)
 
-1. Files have been updated to match the current CBT version. **(NEW)**
+2. {memo X} have been updated to English files. (**NEW**)
 
-2. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
+3. Please send a separate Pull Request for EACH FILE. 
 
-3. Please use the latest file version before editing the translations :)
+4. Please use the latest file version before editing the translations 
 
-4. Scroll down for a preview of how real-time translation works in game! 
+5. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 
-5. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
+6. Scroll down for a preview of how real-time translation works in game! 
+
+7. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
 
 <center><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/969383_419497041509849_21485321_n.jpg?oh=4f5a38d7c9f8c311b803b4adb80a0a28&oe=56347E65&__gda__=1444560791_5463c6dc462165446fcead1c56bef11d"/></center>
@@ -54,7 +58,7 @@ You may also create new issues to discuss the translations with other translator
 
 #### Don't know Korean but still want to contribute?  
 
-You can still contribute by editing translation errors :)
+You can still contribute by proofreading and editing translation errors :)
 
 **Tip:** The translations should be kept as short as possible to fit in game UI. 
 
@@ -66,5 +70,7 @@ You can still contribute by editing translation errors :)
 <img src="http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/03/screenshot_20150319_00014-1024x578.jpg"/>
 
 
+## Intellectual Property Rights Ownership
+Please be aware that the Intellectual Property Rights of the following, including, but not limited to, belong to IMC Games Co., Ltd: The names of any characters, NPCs, places, scenes, things, events, short phrases, short sayings and the likes that are set forth in Tree of Savior, as well as any translations or contributions from our contributors.
 
-
+                                  ⓒ IMCGAMES CO., LTD. All Rights Reserved.
