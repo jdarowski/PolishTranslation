@@ -18,7 +18,7 @@ UI_20150317_000017	{@St59}Zamknij dom aukcyjny{/}
 UI_20150317_000018	{@St41b}Sprzedane przedmioty : %s ea, Nie sprzedane przedmioty : %s ea{/}
 UI_20150317_000019	{@St43}{s22}Aukcja przedmiotów{/}
 UI_20150317_000020	{@st59}Zamknij informacje zadania{/}
-UI_20150317_000021	Abe days rest
+UI_20150317_000021	Abe dzienny wypoczynek
 UI_20150317_000022	{@St41b}Pozostały czas
 UI_20150317_000023	3 godziny 16 minut
 UI_20150317_000024	{@St41b}Cena wywoławcza
@@ -41,7 +41,7 @@ UI_20150317_000040	{@St44}Zapisz{/}
 UI_20150317_000041	{@St44}Anuluj{/}
 UI_20150317_000042	{@St43}{s22}Fryzjer{/}
 UI_20150317_000043	{@st59}Poprzednia fryzura{/}
-UI_20150317_000044	{@St59}Nastepna fryzura{/}
+UI_20150317_000044	{@St59}Następna fryzura{/}
 UI_20150317_000045	{@st41b} Zmień {s18} (100 iCoins potrzebnych) {/}
 UI_20150317_000046	{@St59}Zmień na wybraną fryzurę.{/}
 UI_20150317_000047	{@St41}Anuluj
@@ -110,114 +110,114 @@ UI_20150317_000109	{@st41b}Anuluj {/}
 UI_20150317_000110	{@st59}Anuluj zmiany{/}
 UI_20150317_000111	{@st42}Opcje czatu
 UI_20150317_000112	{@st42}Przeźroczystość
-UI_20150317_000113	Show chat balloon
-UI_20150317_000114	Show shouts at the top of your screen
-UI_20150317_000115	{@st43}Cheat List{/}
-UI_20150317_000116	{@st42b}Item{/}
-UI_20150317_000117	{@st42b}Monster{/}
-UI_20150317_000118	{@st42b}Move map{/}
-UI_20150317_000119	{@st42b}Combat Order{/}
-UI_20150317_000120	{@st41b}Close{/}
-UI_20150317_000121	{s16}{b}Create items by clicking on the Create button or double-click.
-UI_20150317_000122	{s16}{b}ea
-UI_20150317_000123	{s16}{b}Lv.
-UI_20150317_000124	{@st41b}Search{/}
-UI_20150317_000125	{s16}{b}Summon monsters by clicking on the Create button or double-click.
-UI_20150317_000126	{s16}{b}ea
-UI_20150317_000127	{s16}{b}Choose desired area.
-UI_20150317_000128	{s18}{b}View Minimap{/}
-UI_20150317_000129	{@st41b}Tool List{/}
-UI_20150317_000130	Collection {@st59b} {nl} {@st59s} - If you collect the items saved my collection deck games can collect the item {nl} - If you use shortcut keys to activate the collection item collection deck {nl} {/}
-UI_20150317_000131	{@st59}Close Collection Information{/}
-UI_20150317_000132	{@st43}Collection{/}
-UI_20150317_000133	{@st43}Color Spray{/}
-UI_20150317_000134	{@st49}Color Spray{/}
-UI_20150317_000135	{@st49}Color{/}
-UI_20150317_000136	{@st49}Remaining{/}
-UI_20150317_000137	{@st49}Brush{/}
-UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Draw{/}{/}
-UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Save{/}{/}
-UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Import{/}{/}
-UI_20150317_000141	{@st49}Close{/}
-UI_20150317_000142	{@st43} Companion Adoption
-UI_20150317_000143	{@st59} Enter the name of your newly adopted companion {/}
-UI_20150317_000144	{@st41b}Name{/}
-UI_20150317_000145	{@st41b}Price %s{/}
-UI_20150317_000146	{@st59}Close the Companion Adoption window {/}
-UI_20150317_000147	{@st41b}Adopt
-UI_20150317_000148	{@st59}Confirm adoption {/}
-UI_20150317_000149	{@st43}Companion Shop
-UI_20150317_000150	{@st59}Close the Companion Shop{/}
-UI_20150317_000151	{@st43}Other Character Info{/}{@st42}
-UI_20150317_000152	{@st59}Close the Character Information{/}
-UI_20150317_000153	{@st41b}Information
-UI_20150317_000154	{@st41b}Record
-UI_20150317_000155	Team Name
-UI_20150317_000156	Character Name
-UI_20150317_000157	Rank {#Ffff00}%s{/} %s Level {#ffff00}%s{/}
-UI_20150317_000158	Warrior
-UI_20150317_000159	Adventure {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
-UI_20150317_000160	Adventure {#ffff00}%s{/} ({#ffff00}Unranked{/})
-UI_20150317_000161	Total Achievements {#ffff00}%s{/}
-UI_20150317_000162	Settings
-UI_20150317_000163	Clear the tab title to delete the tab.
-UI_20150317_000164	{@st49}All{/}
+UI_20150317_000113	Pokaż dymek czatu
+UI_20150317_000114	Pokaż krzyki na górze ekranu
+UI_20150317_000115	{@st43}Lista oszustw{/}
+UI_20150317_000116	{@st42b}Przedmiot{/}
+UI_20150317_000117	{@st42b}Potwór{/}
+UI_20150317_000118	{@st42b}Przesuń mapę{/}
+UI_20150317_000119	{@st42b}Rozkaz bitewny{/}
+UI_20150317_000120	{@st41b}Zamknij{/}
+UI_20150317_000121	{s16}{b}Twórz przedmioty klikając przycist Stwórz lub klikając podwójnie.
+UI_20150317_000122	{s16}{b}sztuka
+UI_20150317_000123	{s16}{b}Poziom.
+UI_20150317_000124	{@st41b}Szukaj{/}
+UI_20150317_000125	{s16}{b}Przywołuj potwory klikając Stwórz lub klikając podwójnie.
+UI_20150317_000126	{s16}{b}sztuka
+UI_20150317_000127	{s16}{b}Wybierz określone miejsce.
+UI_20150317_000128	{s18}{b}Wyświetl minimape{/}
+UI_20150317_000129	{@st41b}Lista narzedzi{/}
+UI_20150317_000130	Kolekcja {@st59b} {nl} {@st59s} - Jeśli zbierzesz przedmioty zapisane w kolekcji możesz zebrać przedmiot {nl} - Jeśli użyjesz skrótów aby aktywować kolekcje {nl} {/}
+UI_20150317_000131	{@st59}Zamknij informache o kolekcjach{/}
+UI_20150317_000132	{@st43}Kolekcja{/}
+UI_20150317_000133	{@st43}Sprey koloru{/}
+UI_20150317_000134	{@st49}Sprey koloru{/}
+UI_20150317_000135	{@st49}Kolor{/}
+UI_20150317_000136	{@st49}Pozostałe{/}
+UI_20150317_000137	{@st49}Pędzel{/}
+UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Rysuj{/}{/}
+UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Zapisz{/}{/}
+UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Importuj{/}{/}
+UI_20150317_000141	{@st49}Zamknij{/}
+UI_20150317_000142	{@st43} Adopcja towarzysza
+UI_20150317_000143	{@st59} Wprowadź nazwę nowo adoptowanego towarzysza {/}
+UI_20150317_000144	{@st41b}Nazwa{/}
+UI_20150317_000145	{@st41b}Cena %s{/}
+UI_20150317_000146	{@st59}Zamknij okno adopcji towarzysza {/}
+UI_20150317_000147	{@st41b}Adoptuj
+UI_20150317_000148	{@st59}Potwierdź adopcje {/}
+UI_20150317_000149	{@st43}Sklep dla towarzyszy
+UI_20150317_000150	{@st59}Zamknij sklep dla towarzyszy{/}
+UI_20150317_000151	{@st43}Informacje o innej postaci{/}{@st42}
+UI_20150317_000152	{@st59}Zamknij informacje postaci{/}
+UI_20150317_000153	{@st41b}Informacje
+UI_20150317_000154	{@st41b}Zapiski
+UI_20150317_000155	Nazwa drużyny
+UI_20150317_000156	Nazwa postaci
+UI_20150317_000157	Ranking {#Ffff00}%s{/} %s Poziom {#ffff00}%s{/}
+UI_20150317_000158	Wojownik
+UI_20150317_000159	Przygoda {#ffff00}%s{/} (Ranking{#ffff00}%s{/}/%s)
+UI_20150317_000160	Przygoda {#ffff00}%s{/} ({#ffff00}Nierankingowa{/})
+UI_20150317_000161	Wszystkie osiągnięcia {#ffff00}%s{/}
+UI_20150317_000162	Opcje
+UI_20150317_000163	Usuń nazwę okna aby skasować okno.
+UI_20150317_000164	{@st49}Wszystko{/}
 UI_20150317_000165	{@st49}System{/}
-UI_20150317_000166	{@st49}Talk{/}
-UI_20150317_000167	{@st49}Combat{/}
-UI_20150317_000168	{@st49}Item{/}
-UI_20150317_000169	{@st43}Credits{/}
-UI_20150317_000170	{@st43}Lock Target settings {/}
-UI_20150317_000171	NPC Name
-UI_20150317_000172	Compare
-UI_20150317_000173	Illustration
-UI_20150317_000174	Select Talk
-UI_20150317_000175	Text Help
-UI_20150317_000176	{@st41}Item Crafting{/}
-UI_20150317_000177	{@st45tw2}Crafting item...
-UI_20150317_000178	%r seconds
-UI_20150317_000179	{@st41}Cancel{/}
-UI_20150317_000180	{@st45tw2}Quantity{/}
-UI_20150317_000181	{@st45tw2}Do you want to craft this item?
-UI_20150317_000182	{@st41}Decide{/}
-UI_20150317_000183	Quest Information
-UI_20150317_000184	{@st59}Cancel Trade{/}
-UI_20150317_000185	{@st43}Personal Trade{/}
-UI_20150317_000186	My Trading List
-UI_20150317_000187	Silver : %s
-UI_20150317_000188	Enter
-UI_20150317_000189	{@st41}Accept
-UI_20150317_000190	{@st41}Confirm
-UI_20150317_000191	Other character's(%s) Trading List
-UI_20150317_000192	Other character's Name
-UI_20150317_000193	{s18}{ol} {gr gradation1}Field Event{/}
-UI_20150317_000194	{s20}{ol}Defeat the Vubbe Tribe! Would you like to join?
-UI_20150317_000195	{s20}{ol}%s Would you like to join?
-UI_20150317_000196	{s20}{ol}Participants: (1/5)
-UI_20150317_000197	{s20}{ol}Participants : (%s/%s)
-UI_20150317_000198	{s20}{ol}The game starts after 1 second.
-UI_20150317_000199	{s20}{ol}The game starts after %s seconds.
-UI_20150317_000200	Do not show this anymore for today.
-UI_20150317_000201	Do not show Field Events.
-UI_20150317_000202	Join Game
-UI_20150317_000203	Start a game with other players.
-UI_20150317_000204	Decline game invite.
-UI_20150317_000205	Spray Presets
-UI_20150317_000206	{@st49}Select{/}
-UI_20150317_000207	{@st49}Cancel{/}
-UI_20150317_000208	{@st49}Delete{/}
-UI_20150317_000209	Enter the name of the file to save.
-UI_20150317_000210	{@st43}Friends
-UI_20150317_000211	{@st59}Close Friends List{/}
-UI_20150317_000212	{@st59b}Friend{nl} {@st59s} - Become friends with other players in the game. {nl} - Go to the Friends List tab to check the status on your friends. {nl} - In the Manage tab, you can invite, decline or block your friends. {/}
-UI_20150317_000213	{@st41b}Show online friends{/}
-UI_20150317_000214	{@st41b}List
-UI_20150317_000215	{@st41b}Manage
-UI_20150317_000216	{@st41b}Send Friend Request
-UI_20150317_000217	{@st41b}Block
-UI_20150317_000218	{@st59}Search{/}
-UI_20150317_000219	{@st44}Guild{/}
-UI_20150317_000220	Guild
+UI_20150317_000166	{@st49}Rozmowa{/}
+UI_20150317_000167	{@st49}Walka{/}
+UI_20150317_000168	{@st49}Przedmiot{/}
+UI_20150317_000169	{@st43}Napisy{/}
+UI_20150317_000170	{@st43}Zablokuj ustawienia celu {/}
+UI_20150317_000171	Nazwa NPC
+UI_20150317_000172	Porównaj
+UI_20150317_000173	Ilustracja
+UI_20150317_000174	Wybierz rozmowę
+UI_20150317_000175	Tekst pomocy
+UI_20150317_000176	{@st41}Wytwarzanie przedmiotów{/}
+UI_20150317_000177	{@st45tw2}Tworzenie przedmiotu...
+UI_20150317_000178	%r sekund
+UI_20150317_000179	{@st41}Anuluj{/}
+UI_20150317_000180	{@st45tw2}Ilość{/}
+UI_20150317_000181	{@st45tw2}Czy chcesz wytworzyć ten przedmiot?
+UI_20150317_000182	{@st41}Wybierz{/}
+UI_20150317_000183	Informacje zadania
+UI_20150317_000184	{@st59}Anuluj wymianę{/}
+UI_20150317_000185	{@st43}Wymiana osobista{/}
+UI_20150317_000186	Moja lista wymian
+UI_20150317_000187	Srebro : %s
+UI_20150317_000188	Wprowadź
+UI_20150317_000189	{@st41}Akceptuj
+UI_20150317_000190	{@st41}Zatwierdź
+UI_20150317_000191	Lista wymiany(%s) innej postaci
+UI_20150317_000192	Nazwa innej postaci
+UI_20150317_000193	{s18}{ol} {gr gradation1}Wydarzenie miejscowe{/}
+UI_20150317_000194	{s20}{ol}Pokonaj plemię Vubbe! Czy chcesz dołączyć?
+UI_20150317_000195	{s20}{ol}%s Czy chcesz dołączyć?
+UI_20150317_000196	{s20}{ol}Uczestnicy: (1/5)
+UI_20150317_000197	{s20}{ol}Uczestnicy : (%s/%s)
+UI_20150317_000198	{s20}{ol}Gra rozpoczyna się po 1 sekundzie.
+UI_20150317_000199	{s20}{ol}Gra zaczyna się po  %s sekundach.
+UI_20150317_000200	Nie wyświetlaj tego dzisiaj.
+UI_20150317_000201	Nie wyświetlaj wydarzeń miejscowych.
+UI_20150317_000202	Dołącz
+UI_20150317_000203	Rozpocznij z innym graczem.
+UI_20150317_000204	Odrzuć zaproszenie.
+UI_20150317_000205	Zdefiniowane spreye
+UI_20150317_000206	{@st49}Wybierz{/}
+UI_20150317_000207	{@st49}Anuluj{/}
+UI_20150317_000208	{@st49}Skasuj{/}
+UI_20150317_000209	Wpisz nazwę pliku do zapisania.
+UI_20150317_000210	{@st43}Znajomi
+UI_20150317_000211	{@st59}Zamknij listę znajomych{/}
+UI_20150317_000212	{@st59b}Znajomy{nl} {@st59s} - Zostań znajomymi z innymi graczami. {nl} - Przejdź do okna znajomych aby zobaczyć ich status. {nl} - W oknie zarządzania, możesz dodawać, odrzucać lub blokować znajomych. {/}
+UI_20150317_000213	{@st41b}Pokaż dostępnych znajomych{/}
+UI_20150317_000214	{@st41b}Lista
+UI_20150317_000215	{@st41b}Zarządzaj
+UI_20150317_000216	{@st41b}Wyślij zaproszenie
+UI_20150317_000217	{@st41b}Blokuj
+UI_20150317_000218	{@st59}Szukaj{/}
+UI_20150317_000219	{@st44}Gildia{/}
+UI_20150317_000220	Gildia
 UI_20150317_000221	List
 UI_20150317_000222	News
 UI_20150317_000223	Guild Mission
