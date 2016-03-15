@@ -1,14 +1,14 @@
-UI_20150317_000001	{@st41b}Naucz sie atrybutow{nl}od Mistrza kazdej klasy.{/}
-UI_20150317_000002	{@st43}Lista atrybutow {/}
-UI_20150317_000003	{@st59}Zamknij liste atrybutow {/}
-UI_20150317_000004	{@st43}Nauka atrybutow{/}
-UI_20150317_000005	{@st59}Zamknij okno atrybutow{/}
-UI_20150317_000006	{@st41b}Funds{/}
-UI_20150317_000007	Osiagniecia
+﻿UI_20150317_000001	{@st41b}Naucz się atrybutów{nl}od Mistrza każdej klasy.{/}
+UI_20150317_000002	{@st43}Lista atrybutów {/}
+UI_20150317_000003	{@st59}Zamknij listę atrybutów {/}
+UI_20150317_000004	{@st43}Nauka atrybutów{/}
+UI_20150317_000005	{@st59}Zamknij okno atrybutów{/}
+UI_20150317_000006	{@st41b}Fundusze{/}
+UI_20150317_000007	Osiągnięcia
 UI_20150317_000008	Ranking servera
-UI_20150317_000009	{@st59}Niespodziewane zdarzenie jest dostepne.{/}
-UI_20150317_000010	{@st59}Nowa wiadomosc pomocy{/}
-UI_20150317_000011	{@st41}Czy chcesz stworzych ten typ strzaly?{/}
+UI_20150317_000009	{@st59}Niespodziewane zdarzenie jest dostępne.{/}
+UI_20150317_000010	{@st59}Nowa wiadomość pomocy{/}
+UI_20150317_000011	{@st41}Czy chcesz stworzyć ten typ strzały?{/}
 UI_20150317_000012	{@st41b}Raz{/}
 UI_20150317_000013	{@st41b}Wszystko{/}
 UI_20150317_000014	{@St41b}Pauza{/}
@@ -16,100 +16,100 @@ UI_20150317_000015	{@St43}Dziennik przygody{/}
 UI_20150317_000016	{@St43}Dom aukcyjny{/}
 UI_20150317_000017	{@St59}Zamknij dom aukcyjny{/}
 UI_20150317_000018	{@St41b}Sprzedane przedmioty : %s ea, Nie sprzedane przedmioty : %s ea{/}
-UI_20150317_000019	{@St43}{s22}Aukcja przedmiotow{/}
+UI_20150317_000019	{@St43}{s22}Aukcja przedmiotów{/}
 UI_20150317_000020	{@st59}Zamknij informacje zadania{/}
 UI_20150317_000021	Abe days rest
-UI_20150317_000022	{@St41b}Pozostaly czas
+UI_20150317_000022	{@St41b}Pozostały czas
 UI_20150317_000023	3 godziny 16 minut
-UI_20150317_000024	{@St41b}Cena wywolawcza
+UI_20150317_000024	{@St41b}Cena wywoławcza
 UI_20150317_000025	{@St41b}Oferty
-UI_20150317_000026	{@St41b}Cena terazniejsza
+UI_20150317_000026	{@St41b}Cena teraźniejsza
 UI_20150317_000027	{@St41b}Cena oferty
-UI_20150317_000028	{@St41b}Minimum Bid Price from {@st57}%s{@st41b}Silver{/}
+UI_20150317_000028	{@St41b}Minimalna oferta od {@st57}%s{@st41b}Srebra{/}
 UI_20150317_000029	{@St41b}Oferta{/}
 UI_20150317_000030	{@St43b}Kup teraz!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
-UI_20150317_000031	{@St44}Permission Settings{/}
+UI_20150317_000031	{@St44}Ustawienia uprawnień{/}
 UI_20150317_000032	{@St45}Nazwa:%s{/}
-UI_20150317_000033	{@St45}Schowek druzyny{/}
-UI_20150317_000034	{@St49}Zadne
-UI_20150317_000035	{@St49}Wloz
+UI_20150317_000033	{@St45}Schowek drużyny{/}
+UI_20150317_000034	{@St49}Żadne
+UI_20150317_000035	{@St49}Włóż
 UI_20150317_000036	{@St49}Importuj
-UI_20150317_000037	{@St45}Survey{/}
-UI_20150317_000038	{@St49}Stworz
+UI_20150317_000037	{@St45}Przegląd{/}
+UI_20150317_000038	{@St49}Stwórz
 UI_20150317_000039	{@St49}Skasuj
 UI_20150317_000040	{@St44}Zapisz{/}
 UI_20150317_000041	{@St44}Anuluj{/}
 UI_20150317_000042	{@St43}{s22}Fryzjer{/}
 UI_20150317_000043	{@st59}Poprzednia fryzura{/}
 UI_20150317_000044	{@St59}Nastepna fryzura{/}
-UI_20150317_000045	{@st41b} Zmien {s18} (100 iCoins required) {/}
-UI_20150317_000046	{@St59}Zmien na wybrana fryzure.{/}
+UI_20150317_000045	{@st41b} Zmień {s18} (100 iCoins potrzebnych) {/}
+UI_20150317_000046	{@St59}Zmień na wybraną fryzurę.{/}
 UI_20150317_000047	{@St41}Anuluj
 UI_20150317_000048	{@st43}Pchli targ{/}
-UI_20150317_000049	Nazwa ksiegi
-UI_20150317_000050	{@St59}Przestan czytac{/}
+UI_20150317_000049	Nazwa księgi
+UI_20150317_000050	{@St59}Przestań czytać{/}
 UI_20150317_000051	{@st59}Poprzednia strona{/}
-UI_20150317_000052	{@st59}Nastepna{/}
-UI_20150317_000053	{@st47}%s appeared!
-UI_20150317_000054	{@st43}Score{/}
+UI_20150317_000052	{@st59}Następna{/}
+UI_20150317_000053	{@st47}%s pojawił się!
+UI_20150317_000054	{@st43}Wynik{/}
 UI_20150317_000055	Obrazenia otrzymane
 UI_20150317_000056	Bonus za technike
 UI_20150317_000057	Bonus za uniki
 UI_20150317_000058	Czas ukonczenia
-UI_20150317_000059	Total Score
-UI_20150317_000060	{@st42}Pozostaly
+UI_20150317_000059	Wynik całkowity
+UI_20150317_000060	{@st42}Czas trwania
 UI_20150317_000061	10 minut
 UI_20150317_000062	10 sekund
-UI_20150317_000063	{@st44}Zakonczone
-UI_20150317_000064	{@st59}Close Vending Machine{/}
-UI_20150317_000065	{@st43}Buff Vending Machine
-UI_20150317_000066	Vending Machine Name
+UI_20150317_000063	{@st44}Zakończone
+UI_20150317_000064	{@st59}Zamknij automat{/}
+UI_20150317_000065	{@st43}Automat z błogosławieństwami
+UI_20150317_000066	Nazwa automatu
 UI_20150317_000067	{@st43}Zarejestruj
 UI_20150317_000068	{@st43}Anuluj
-UI_20150317_000069	Buff Vending Machine
-UI_20150317_000070	{@st59}Close the Buff Vending Machine.
-UI_20150317_000071	{@st59}Buff Vending Machine{nl} - You can pay silver to receive buffs from another player.
-UI_20150317_000072	Carriage Menu
-UI_20150317_000073	{ol}{s22}Disembark{/}
-UI_20150317_000074	Casting
+UI_20150317_000069	Automat z błogosławieństwami
+UI_20150317_000070	{@st59}Zamknij automat z błogosławieństwami.
+UI_20150317_000071	{@st59}Automat z błogosławieństwami{nl} - Możesz zapłacić srebrem aby otrzymać buffy od innego gracza.
+UI_20150317_000072	Menu powozu
+UI_20150317_000073	{ol}{s22}Wysiadać{/}
+UI_20150317_000074	Rzucać
 UI_20150317_000075	{@st43}Opcje gry{/}
-UI_20150317_000076	{@st64}Use the arrow keys to select the cell!
-UI_20150317_000077	{@st43}Advancement Information {/}
-UI_20150317_000078	{@st43}Select Class
-UI_20150317_000079	Psychokinesist
-UI_20150317_000080	{@st42}%s circle {/}
-UI_20150317_000081	How many circles
-UI_20150317_000082	Displays a brief description of the class.
-UI_20150317_000083	{@st41b}Attack {@sti7}%s{/}
-UI_20150317_000084	{@st41b}Support {@sti7}%s{/}
-UI_20150317_000085	{@st41b}Difficulty{@sti7}%s{/}
-UI_20150317_000086	{@st59}Close the Class Information window{/}
-UI_20150317_000087	Advancement Alarm
-UI_20150317_000088	{@st43} Advancement
-UI_20150317_000089	{@sti7}{s14} Character {/}
-UI_20150317_000090	{@sti8}{s14} Class {/}
-UI_20150317_000091	{@st44}Chat{/}
-UI_20150317_000092	To. WWWWWWWW and 1 other
-UI_20150317_000093	General: /s chat {nl} Shout: /y chat {nl} Party: /p chat{nl} Whisper: /w character's username chat
-UI_20150317_000094	{@st41}All Chat{/}
-UI_20150317_000095	{@59}Quit{/}
-UI_20150317_000096	{@59}Invite{/}
-UI_20150317_000097	{@st59}All{/}
-UI_20150317_000098	{@st59}Normal (/s chat){/}
-UI_20150317_000099	{@st59}Shout (/y chat){/}
-UI_20150317_000100	{@st59}Party (/p chat){/}
-UI_20150317_000101	{@st59}Whisper (/w team name chat){/}
-UI_20150317_000102	{@st59}Adjust Chat Window{/}
-UI_20150317_000103	{@st43}{s22}Chat Macro{/}
-UI_20150317_000104	{@st43}Macro{/}
-UI_20150317_000105	{@st59b} Macro {nl} {@st59s} - How to use: {nl} 1. Register the gesture icon to the gesture slots at the bottom {nl} 2. Write your phrase and save {nl} 3. Use the short cut key to use the phrase and make gesture at the same time {/}
-UI_20150317_000106	{@st59}Close Macro{/}
-UI_20150317_000107	{@st41b}Save {/}
-UI_20150317_000108	{@st59}Save your changes{/}
-UI_20150317_000109	{@st41b}Cancel {/}
-UI_20150317_000110	{@st59}Cancel your changes{/}
-UI_20150317_000111	{@st42}Chat Settings
-UI_20150317_000112	{@st42}Transparency
+UI_20150317_000076	{@st64}Użyj strzałek aby wybrać komórkę!
+UI_20150317_000077	{@st43}Informacje awansu {/}
+UI_20150317_000078	{@st43}Wybierz klasę
+UI_20150317_000079	Psychokinetyk
+UI_20150317_000080	{@st42}%s krąg {/}
+UI_20150317_000081	Jak wiele kręgów
+UI_20150317_000082	Wyświetla krótką infomacje na temat klasy.
+UI_20150317_000083	{@st41b}Atak {@sti7}%s{/}
+UI_20150317_000084	{@st41b}Wsparcie {@sti7}%s{/}
+UI_20150317_000085	{@st41b}Trudność{@sti7}%s{/}
+UI_20150317_000086	{@st59}Zamknij okno z informacjami o klasie{/}
+UI_20150317_000087	Alarm awansu
+UI_20150317_000088	{@st43} Awans
+UI_20150317_000089	{@sti7}{s14} Postać {/}
+UI_20150317_000090	{@sti8}{s14} Klasa {/}
+UI_20150317_000091	{@st44}Czat{/}
+UI_20150317_000092	Do. WWWWWWWW i 1 innej
+UI_20150317_000093	Generalny: /s czat {nl} Krzyk: /y czat {nl} Drużyna: /p czat{nl} Szept: /w nazwa postaci czat
+UI_20150317_000094	{@st41}Cały czat{/}
+UI_20150317_000095	{@59}Wyjdź{/}
+UI_20150317_000096	{@59}Zaproś{/}
+UI_20150317_000097	{@st59}Wszyscy{/}
+UI_20150317_000098	{@st59}Normalny (/s czat){/}
+UI_20150317_000099	{@st59}Krzyk (/y czat){/}
+UI_20150317_000100	{@st59}Drużyna (/p czat){/}
+UI_20150317_000101	{@st59}Szept (/w nazwa drużyny czat){/}
+UI_20150317_000102	{@st59}Dopasuj okno czatu{/}
+UI_20150317_000103	{@st43}{s22}Makro czatu{/}
+UI_20150317_000104	{@st43}Makro{/}
+UI_20150317_000105	{@st59b} Makro {nl} {@st59s} - Jak używać: {nl} 1. Zarejestruj ikone gestu do slotu gestu powyżej{nl} 2. Wpisz zwrot i zapisz {nl} 3. Użyj skrótu aby napisać zwrot i użyć gestu w jednym czasie {/}
+UI_20150317_000106	{@st59}Zamknij makro{/}
+UI_20150317_000107	{@st41b}Zapisz {/}
+UI_20150317_000108	{@st59}Zapisz zmiany{/}
+UI_20150317_000109	{@st41b}Anuluj {/}
+UI_20150317_000110	{@st59}Anuluj zmiany{/}
+UI_20150317_000111	{@st42}Opcje czatu
+UI_20150317_000112	{@st42}Przeźroczystość
 UI_20150317_000113	Show chat balloon
 UI_20150317_000114	Show shouts at the top of your screen
 UI_20150317_000115	{@st43}Cheat List{/}
