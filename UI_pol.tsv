@@ -218,222 +218,222 @@ UI_20150317_000217	{@st41b}Blokuj
 UI_20150317_000218	{@st59}Szukaj{/}
 UI_20150317_000219	{@st44}Gildia{/}
 UI_20150317_000220	Gildia
-UI_20150317_000221	List
-UI_20150317_000222	News
-UI_20150317_000223	Guild Mission
-UI_20150317_000224	Members Online
-UI_20150317_000225	{@st44}Create Guild{/}
-UI_20150317_000226	{@st42}Create{/}
-UI_20150317_000227	{@st42}Close{/}
-UI_20150317_000228	{@st42}All{/}
-UI_20150317_000229	{@st42}Today's Rankings{/}
-UI_20150317_000230	{@st42}Weekly Rankings{/}
-UI_20150317_000231	{@st56} rank {/}
-UI_20150317_000232	{@st56}Points{/}
-UI_20150317_000233	{@st56}Class{/}
-UI_20150317_000234	{@st56} name {/}
-UI_20150317_000235	Previous Page
-UI_20150317_000236	Next Page
-UI_20150317_000237	{@st42}Search ID{/}
-UI_20150317_000238	Enter the ID to search
-UI_20150317_000239	Close the Hall of Fame
-UI_20150317_000240	Enter the ID to search
-UI_20150317_000241	{@st59} Stamina {/}
-UI_20150317_000242	{@st43}Help List{/}
-UI_20150317_000243	{@st59}Close the Help List window{/}
-UI_20150317_000244	{@st59b} Help List {nl} {@st59s}- Read help topics again {nl}  - Select topic to view details {/}
-UI_20150317_000245	{@st43}{s22}Help{/}
-UI_20150317_000246	{@st47_b}{b}Help Topics{/}
-UI_20150317_000247	{@st42b}Simple Help Contents{/}
-UI_20150317_000248	{@st59}View details{/}
-UI_20150317_000249	Please enter a quantity
-UI_20150317_000250	{@st59}Enter the contents{/}
-UI_20150317_000251	{@st41b}Confirm
-UI_20150317_000252	{@st59}Confirm {/}
-UI_20150317_000253	{@st41b}Close
-UI_20150317_000254	{@st59}Cancel {/}
-UI_20150317_000255	{@st43}Warp{/}
-UI_20150317_000256	{@st59}Close Warp Window{/}
-UI_20150317_000257	Warp {@st59b} {nl} {@st59s} - A system that can warp their visitors to other regions {nl} - When there are more than 2 Warp locations, the Warp function is activated {nl} {/}
-UI_20150317_000258	{@st41}Current Location : %s{/}
-UI_20150317_000259	{@st43}{s22}Warp{/}
-UI_20150317_000260	{@st41b}Do you want to move to this area?{/}
-UI_20150317_000261	What about Saul ray
-UI_20150317_000262	Coin Consumed : 0
-UI_20150317_000263	Intro
-UI_20150317_000264	{@st43}Inventory{/}
-UI_20150317_000265	{@st59}Close Inventory{/}
-UI_20150317_000266	Equipment {@st59b} {nl} {@st59s}- Hairstyle/Costume: Equipment to change a characters appearance {nl} - Weapon: Can use one-handed or two-handed weapons {nl} (sub-weapon/shield can be worn with a one-handed weapon) {nl} - Armor: Top, Pants, Gloves, Shoes {nl} - Accessories: Can wear 1 Necklace and 2 Bracelets {nl} {/}
-UI_20150317_000267	{@st59}Hairstyle Costume 1{/}
-UI_20150317_000268	{@st59}Hairstyle Costume 2{/}
-UI_20150317_000269	{@st59}Necklace{/}
-UI_20150317_000270	{@st59}Costume{/}
-UI_20150317_000271	{@st59}Top{/}
-UI_20150317_000272	{@st59}Gloves{/}
-UI_20150317_000273	{@st59}Pants{/}
-UI_20150317_000274	{@st59}Shoes{/}
-UI_20150317_000275	{@st59}Left Hand{/}
-UI_20150317_000276	{@st59}Right Hand{/}
-UI_20150317_000277	{@st59}Bracelet 1{/}
-UI_20150317_000278	{@st59}Bracelet 2{/}
-UI_20150317_000279	{@st59}Armband{/}
-UI_20150317_000280	{@st59}Search with name entered {/}
-UI_20150317_000281	Weight
-UI_20150317_000282	{@st43}Equipment Buff{/}
-UI_20150317_000283	{@st59}Close the Item Repair UI{/}
-UI_20150317_000284	{@st42}Available for Buff
-UI_20150317_000285	{@st42}Consume{/}
-UI_20150317_000286	{@st42}Run
-UI_20150317_000287	{@st42}Target Item{/}
-UI_20150317_000288	Ring 1 {@st59} {/}
-UI_20150317_000289	{@st43}Item Crafting{/}
-UI_20150317_000290	{@st42b} Show only recipes with sufficient materials {/}
-UI_20150317_000291	{@st59}Close Item Crafting {/}
-UI_20150317_000292	{@st43}{s22}Divide Item
-UI_20150317_000293	{@st59}Enter quantity{/}
-UI_20150317_000294	Monster HP Bar
-UI_20150317_000295	{@st44}Item Set acquired{/}
-UI_20150317_000296	Keyboard Warrior
-UI_20150317_000297	Kill
-UI_20150317_000298	99 minutes 99 seconds
-UI_20150317_000299	38000 points
-UI_20150317_000300	Enhanced Speed Potion
-UI_20150317_000301	{@st41}OK {/}
-UI_20150317_000302	{@st59b} Adventure Journal {nl}{@st59s}- Game progress is recorded in the Adventure Journal {nl} - Get Adventure Index through items, monsters, crafting, map navigation, game progress {nl}    Adventure Index : Sum of all indices {nl}    Character : 5 points per level and class level {nl}    Item : Equipment: Level X 10 points, Book : 10 points, Others : 1 point {nl}    Monster : 10 points per monster (Boss: 50 points) {nl}    Map : 1 point per 10% {nl}    Quest: 1 point per quest {nl}    Achievement: Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : Deck 5 points, 45 points when complete {nl} - Receive rewards from town NPC depending on the Adventure Index {/}
-UI_20150317_000303	{@sti7}{s22}{ds}Achievements{/}
-UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Points{/}
-UI_20150317_000305	{@st42b} Average / %s Points {/}
-UI_20150317_000306	1st / %s Points
-UI_20150317_000307	Rank %s
-UI_20150317_000308	%s Points
-UI_20150317_000309	Profession
-UI_20150317_000310	Team
-UI_20150317_000311	{@st59}Close Adventure Journal{/}
-UI_20150317_000312	{@st43}Adventure Journal Ranking{/}
-UI_20150317_000313	{@st43}{s22}Rank   
-UI_20150317_000314	{@st43}{s22}Name
-UI_20150317_000315	{@st43}{s22}Score
-UI_20150317_000316	{@st41}Details{/}
-UI_20150317_000317	{@st43}Start Crafting{/}
-UI_20150317_000318	{@st59}Start item crafting.{/}
-UI_20150317_000319	{@st44}Keypad{/}
-UI_20150317_000320	{@st42}Time limit
-UI_20150317_000321	{@st56}Kill{/}
-UI_20150317_000322	{@st56}Overkill{/}
-UI_20150317_000323	{@st56}Shot{/}
-UI_20150317_000324	{@st56}Dead{/}
-UI_20150317_000325	Spell Power
-UI_20150317_000326	Defense
-UI_20150317_000327	Magic Resistance
-UI_20150317_000328	Critical Rate
-UI_20150317_000329	{@st43}Sockets{/}
-UI_20150317_000330	{@st59}Close the Socket Management{/}
-UI_20150317_000331	Please insert your items
-UI_20150317_000332	Potential
-UI_20150317_000333	Additional socket cost : {#ff9933}%s{/}{nl}Gem extraction cost : {#ff9933}%s{/}
-UI_20150317_000334	{@st41b}Add Socket
-UI_20150317_000335	{@st41b}Extract Gem
-UI_20150317_000336	{@st41}Craft{/}
-UI_20150317_000337	{@st41}%s %s ea
-UI_20150317_000338	Area Map
-UI_20150317_000339	Area Explored : 95.5%
-UI_20150317_000340	{@st45tw}Area Explored %s% {/}
-UI_20150317_000341	{@st59}Close the map (M){/}
-UI_20150317_000342	{@st41}Map{/}
-UI_20150317_000343	Shift(clear), Ctrl(mid fill)
-UI_20150317_000344	{ol}Title
-UI_20150317_000345	{@st41}Add{/}
-UI_20150317_000346	{@st41}Delete{/}
-UI_20150317_000347	{@st41}Save{/}
-UI_20150317_000348	{@st41}Auto{/}
-UI_20150317_000349	{@st41}Reset{/}
-UI_20150317_000350	{@st59}Set quantity.{/}
-UI_20150317_000351	{ol}Group
-UI_20150317_000352	{ol}Message
-UI_20150317_000353	{ol}Sound
-UI_20150317_000354	{@st41}Create Minimap{/}
-UI_20150317_000355	{@st55}Area Map
-UI_20150317_000356	{@st43}{s22}Market{/}
-UI_20150317_000357	{@st43}{s24}Market{/}
-UI_20150317_000358	{@st42b}Filter{/}
-UI_20150317_000359	{@st42b}Type{/}
-UI_20150317_000360	{@st42b}Req. Lv{/}
-UI_20150317_000361	{@st42b}Enhance Lv{/}
-UI_20150317_000362	{@st42b}Name
-UI_20150317_000363	{@st41b}Item Cabinet%s
-UI_20150317_000364	{@st41b}Sell
-UI_20150317_000365	{@st41b}Search
-UI_20150317_000366	{@st59}Close the Market window{/}
-UI_20150317_000367	{@st42b}Sort
-UI_20150317_000368	{@st41b}Items for Sale
-UI_20150317_000369	{@st43}{s22}Item Cabinet
-UI_20150317_000370	{@st41b}Receive All
-UI_20150317_000371	{@st41b} Receive
-UI_20150317_000372	{@st43}{s22}Sell
-UI_20150317_000373	{@st42b}Quantity
-UI_20150317_000374	{@st42b}Price
-UI_20150317_000375	{@st42b}Hide Seller's Name{/}
-UI_20150317_000376	{@st41b}Add
-UI_20150317_000377	Siege Coin
-UI_20150317_000378	Someone killed someone
-UI_20150317_000379	{@st43}Minigames{/}
-UI_20150317_000380	{@st49}Fire Catapult{/}
-UI_20150317_000381	{@st44}Control directions{/}
-UI_20150317_000382	{@st44}Fire{/}
-UI_20150317_000383	Minigame
-UI_20150317_000384	{s18}{ol}{gr gradation1}Hide and seek minigame{/}
-UI_20150317_000385	{s16}Would you like to join the mini-game?
-UI_20150317_000386	{s16}Participants : (0/5)
-UI_20150317_000387	{s16}Participants : (%s /%s)
-UI_20150317_000388	{s16}The game starts after 1 second.
-UI_20150317_000389	{s16}The game starts after %s seconds.
-UI_20150317_000390	{@st59}Zoom in{/}
-UI_20150317_000391	{@st59}Zoom out{/}
-UI_20150317_000392	{@st59}Map (M){/}
-UI_20150317_000393	{@st42b} Area Map
-UI_20150317_000394	{@st44}Item Synthesizer{/}
-UI_20150317_000395	{s16}{#FFcc66}{ol}Please select the item you want to create{/}{/}
-UI_20150317_000396	{s16}{#FFcc66}{ol}Drag the ingredients to the slots
-UI_20150317_000397	{@st42}Create{/}
-UI_20150317_000398	{@st42} Cancel {/}
-UI_20150317_000399	Information of %s
-UI_20150317_000400	Kepa or ...
-UI_20150317_000401	{@st41}{Details}
-UI_20150317_000402	{s20}{#050505}Monster Description Monster Description Monster Description Monster Description
-UI_20150317_000403	{@st41} Kill {/}
-UI_20150317_000404	{@st41} Overkill {/}
-UI_20150317_000405	{@st41} Normal Kill {/}
-UI_20150317_000406	{@st41} Area {/}
-UI_20150317_000407	{@st41} Item {/}
-UI_20150317_000408	{@st41} Achievement {/}
-UI_20150317_000409	Object
+UI_20150317_000221	Lista
+UI_20150317_000222	Nowości
+UI_20150317_000223	Misje gildyjne
+UI_20150317_000224	Dostępni Członkowie
+UI_20150317_000225	{@st44}Załóż gildię{/}
+UI_20150317_000226	{@st42}Stwórz{/}
+UI_20150317_000227	{@st42}Zamknij{/}
+UI_20150317_000228	{@st42}Wszyscy{/}
+UI_20150317_000229	{@st42}Dzisiejszy ranking{/}
+UI_20150317_000230	{@st42}Tygodniowy ranking{/}
+UI_20150317_000231	{@st56} miejsce {/}
+UI_20150317_000232	{@st56}Punkty{/}
+UI_20150317_000233	{@st56}Klasa{/}
+UI_20150317_000234	{@st56} nazwa {/}
+UI_20150317_000235	Poprzednia strona
+UI_20150317_000236	Następna strona
+UI_20150317_000237	{@st42}Znajdź ID{/}
+UI_20150317_000238	Podaj ID by znaleźć
+UI_20150317_000239	Zamknij Ligę Najlepszych
+UI_20150317_000240	Podaj ID by znaleźć
+UI_20150317_000241	{@st59} Wytrzymałość {/}
+UI_20150317_000242	{@st43}Lista pomocy{/}
+UI_20150317_000243	{@st59}Zamknij listę pomocy{/}
+UI_20150317_000244	{@st59b} Lista pomocy {nl} {@st59s}- Przeczytaj tematy pomocy ponownie {nl}  - Wybierz temat by zobaczyć detale {/}
+UI_20150317_000245	{@st43}{s22}Pomoc{/}
+UI_20150317_000246	{@st47_b}{b}Tematy pomocy{/}
+UI_20150317_000247	{@st42b}Podstawowe zagadnienia pomocnicze{/}
+UI_20150317_000248	{@st59}Wyświetl detale{/}
+UI_20150317_000249	Podaj ilość
+UI_20150317_000250	{@st59}Wprowadź zawartość{/}
+UI_20150317_000251	{@st41b}Potwierdź
+UI_20150317_000252	{@st59}Potwierdx {/}
+UI_20150317_000253	{@st41b}Zamknij
+UI_20150317_000254	{@st59}Anuluj {/}
+UI_20150317_000255	{@st43}Przenieś{/}
+UI_20150317_000256	{@st59}Zamknij okno przenoszenia{/}
+UI_20150317_000257	Przenoszenie {@st59b} {nl} {@st59s} - System, który może przenieść wizytorów do innych regionów {nl} - Kiedy są więcej niż 2 lokacje, system przenoszenia zostaje aktywowany {nl} {/}
+UI_20150317_000258	{@st41}Obecna lokalizacja : %s{/}
+UI_20150317_000259	{@st43}{s22}Przenieś{/}
+UI_20150317_000260	{@st41b}Czy chcesz się przenieśc do tego miejsca?{/}
+UI_20150317_000261	Co o promieniu Saul
+UI_20150317_000262	Zabrane monety : 0
+UI_20150317_000263	Wstęp
+UI_20150317_000264	{@st43}Ekwipunek{/}
+UI_20150317_000265	{@st59}Zamknij ekwipunek{/}
+UI_20150317_000266	Ekwipunek {@st59b} {nl} {@st59s}- Włosy/Strój: Ekwipunek do zmiany wyglądu postaci {nl} - Broń: Można użyywać jedno lub dwu-ręcznych broni {nl} (broń tylna/tarcza może być założona wraz z bronią jedno-ręczną) {nl} - Zbroja: Góra, Spodnie, Rękawice, Buty {nl} - Akcesoria: Można założyć 1 naszyjnik i 2 bransolety {nl} {/}
+UI_20150317_000267	{@st59}Kostium włosów 1{/}
+UI_20150317_000268	{@st59}Kostium włosów 2{/}
+UI_20150317_000269	{@st59}Naszyjnik{/}
+UI_20150317_000270	{@st59}Strój{/}
+UI_20150317_000271	{@st59}Góra{/}
+UI_20150317_000272	{@st59}Rękawice{/}
+UI_20150317_000273	{@st59}Spodnie{/}
+UI_20150317_000274	{@st59}Buty{/}
+UI_20150317_000275	{@st59}Lewa ręka{/}
+UI_20150317_000276	{@st59}Prawa ręka{/}
+UI_20150317_000277	{@st59}Bransoleta 1{/}
+UI_20150317_000278	{@st59}Bransoleta 2{/}
+UI_20150317_000279	{@st59}Opaska{/}
+UI_20150317_000280	{@st59}Znajdź po nazwie {/}
+UI_20150317_000281	Waga
+UI_20150317_000282	{@st43}Błogosławieństwo ekwipunku{/}
+UI_20150317_000283	{@st59}Zamknij UI naprawy przedmiotów{/}
+UI_20150317_000284	{@st42}Dostępne do błogosławienia
+UI_20150317_000285	{@st42}Użyj{/}
+UI_20150317_000286	{@st42}Biegnij
+UI_20150317_000287	{@st42}Wyceluj przedmiot{/}
+UI_20150317_000288	{@st59}Pierścień 1 {/}
+UI_20150317_000289	{@st43}Wytwarzanie przedmiotów{/}
+UI_20150317_000290	{@st42b} Pokazuj tylko receptury z dostepnymi materiałami {/}
+UI_20150317_000291	{@st59}Zamknij wytwarzanie przedmiotów {/}
+UI_20150317_000292	{@st43}{s22}Podziel przedmiot
+UI_20150317_000293	{@st59}Podaj ilość{/}
+UI_20150317_000294	Pasek Życia potwora
+UI_20150317_000295	{@st44}Otrzymany komplet przedmiotów{/}
+UI_20150317_000296	Wojownik Klawiatury
+UI_20150317_000297	Zabij
+UI_20150317_000298	99 minut 99 sekund
+UI_20150317_000299	38000 punktów
+UI_20150317_000300	Ulepszona mikstura prędkości
+UI_20150317_000301	{@st41}Dobrze {/}
+UI_20150317_000302	{@st59b} Dziennik przygody {nl}{@st59s}- Postęp gry jest zapisywany w Dzienniku przygody {nl} - Wypełnij Dziennik przygody poprzez przedmioty, potwory, wytwarzanie, lokacje, postęp gry {nl}    Indeks przygody : Suma wszystkich wskaźników {nl}    Postać : 5 punktów za poziom postaci lub poziom klasy {nl}    Przedmioty : Ekwipunek: Poziom X 10 punktów, Księga : 10 punktów, Inne : 1 punkt {nl}    Potwory : 10 punktów za potwora (Bossowie: 50 punktów) {nl}    Mapa : 1 punkt za 10% {nl}    Zadania: 1 punktów za zadanie {nl}    Osiągnięcia: zależy od osiągnięcia {nl}    Wytwarzanie : 10 punktów {nl}    Kolekcja : Talia 5 punktów, 45 kiedy skończona {nl} - Otrzymaj nagrody od miejscowego NPC zależne od Indeksu przygody {/}
+UI_20150317_000303	{@sti7}{s22}{ds}Osiągnięcia{/}
+UI_20150317_000304	{@st42b}{#22FF22} Topowe 10% / %s punkty{/}
+UI_20150317_000305	{@st42b} Przeciętne / %s punkty {/}
+UI_20150317_000306	1st / %s punkty
+UI_20150317_000307	Miejsce %s
+UI_20150317_000308	%s punktów
+UI_20150317_000309	Profesja
+UI_20150317_000310	Drużyna
+UI_20150317_000311	{@st59}Zamknij Dziennik przygody{/}
+UI_20150317_000312	{@st43}Ranking Dziennika przygody{/}
+UI_20150317_000313	{@st43}{s22}Miejsce   
+UI_20150317_000314	{@st43}{s22}Nazwa
+UI_20150317_000315	{@st43}{s22}Wynik
+UI_20150317_000316	{@st41}Detale{/}
+UI_20150317_000317	{@st43}Rozpocznij wytwarzanie{/}
+UI_20150317_000318	{@st59}Rozpocznij wytwarzanie przedmiotów.{/}
+UI_20150317_000319	{@st44}Blok klawiszy{/}
+UI_20150317_000320	{@st42}Limit czasowy
+UI_20150317_000321	{@st56}Zabójstwa{/}
+UI_20150317_000322	{@st56}Morderstwa{/}
+UI_20150317_000323	{@st56}Strzał{/}
+UI_20150317_000324	{@st56}Śmierć{/}
+UI_20150317_000325	Siła czaru
+UI_20150317_000326	Obron
+UI_20150317_000327	Rezystancja magii
+UI_20150317_000328	Szansa na krytyk
+UI_20150317_000329	{@st43}Otwory{/}
+UI_20150317_000330	{@st59}Zamknij zarządzanie otworami{/}
+UI_20150317_000331	Wprowadź przedmioty
+UI_20150317_000332	Potencjał
+UI_20150317_000333	Dodatkowy koszt otworu : {#ff9933}%s{/}{nl}Koszt wydobycia kryształu : {#ff9933}%s{/}
+UI_20150317_000334	{@st41b}Dodaj otwór
+UI_20150317_000335	{@st41b}Wydobądź kryształ
+UI_20150317_000336	{@st41}Wytwórz{/}
+UI_20150317_000337	{@st41}%s %s sztuka
+UI_20150317_000338	Mapa lokacji
+UI_20150317_000339	Lokacja odwiedzona w : 95.5%
+UI_20150317_000340	{@st45tw}Lokacja odwiedzona %s% {/}
+UI_20150317_000341	{@st59}Zamknij mapę (M){/}
+UI_20150317_000342	{@st41}Mapa{/}
+UI_20150317_000343	Shift(wyczyść), Ctrl(zapełnij pół)
+UI_20150317_000344	{ol}Tytuł
+UI_20150317_000345	{@st41}Dodaj{/}
+UI_20150317_000346	{@st41}Skasuj{/}
+UI_20150317_000347	{@st41}Zapisz{/}
+UI_20150317_000348	{@st41}Automatycznie{/}
+UI_20150317_000349	{@st41}Zresetuj{/}
+UI_20150317_000350	{@st59}Ustaw ilość.{/}
+UI_20150317_000351	{ol}Grupa
+UI_20150317_000352	{ol}Wiadomość
+UI_20150317_000353	{ol}Dźwięk
+UI_20150317_000354	{@st41}Stwórz minimapę{/}
+UI_20150317_000355	{@st55}Mapa lokacji
+UI_20150317_000356	{@st43}{s22}Targowisko{/}
+UI_20150317_000357	{@st43}{s24}Targowisko{/}
+UI_20150317_000358	{@st42b}Filtr{/}
+UI_20150317_000359	{@st42b}Typ{/}
+UI_20150317_000360	{@st42b}Wymagany poz.{/}
+UI_20150317_000361	{@st42b}Poz. ulepszenia{/}
+UI_20150317_000362	{@st42b}Nazwa
+UI_20150317_000363	{@st41b}Magazyn przedmiotów%s
+UI_20150317_000364	{@st41b}Sprzedaj
+UI_20150317_000365	{@st41b}Szukaj
+UI_20150317_000366	{@st59}Zamknij targowisko{/}
+UI_20150317_000367	{@st42b}Sortuj
+UI_20150317_000368	{@st41b}Przedmioty na sprzedaż
+UI_20150317_000369	{@st43}{s22}Magazyn przedmiotów
+UI_20150317_000370	{@st41b}Odbierz wszystkie
+UI_20150317_000371	{@st41b} Odbierz
+UI_20150317_000372	{@st43}{s22}Sprzedaj
+UI_20150317_000373	{@st42b}Ilość
+UI_20150317_000374	{@st42b}Cena
+UI_20150317_000375	{@st42b}Schowaj nazwe sprzedawcy{/}
+UI_20150317_000376	{@st41b}Dodaj
+UI_20150317_000377	Moneta Oblężenia
+UI_20150317_000378	Ktoś zabił kogoś
+UI_20150317_000379	{@st43}Minigry{/}
+UI_20150317_000380	{@st49}Wystrzel katapultę{/}
+UI_20150317_000381	{@st44}Steruj kierunkiem{/}
+UI_20150317_000382	{@st44}Wystrzel{/}
+UI_20150317_000383	Minigra
+UI_20150317_000384	{s18}{ol}{gr gradation1}Minigra w chowanego{/}
+UI_20150317_000385	{s16}Chciałbyś dołączyć do minigry?
+UI_20150317_000386	{s16}Uczestnicy : (0/5)
+UI_20150317_000387	{s16}Uczestnicy : (%s /%s)
+UI_20150317_000388	{s16}Gra startuje po 1 sekundzie.
+UI_20150317_000389	{s16}Gra startuje po %s sekundach.
+UI_20150317_000390	{@st59}Przybliż{/}
+UI_20150317_000391	{@st59}Oddal{/}
+UI_20150317_000392	{@st59}Mapa (M){/}
+UI_20150317_000393	{@st42b} Mapa lokacji
+UI_20150317_000394	{@st44}Syntezator przedmiotów{/}
+UI_20150317_000395	{s16}{#FFcc66}{ol}Wybierz przedmiot do stworzenia{/}{/}
+UI_20150317_000396	{s16}{#FFcc66}{ol}Przenieś materiały do gniazd
+UI_20150317_000397	{@st42}Stwórz{/}
+UI_20150317_000398	{@st42} Anuluj {/}
+UI_20150317_000399	Informacja o %s
+UI_20150317_000400	Kepa lub ...
+UI_20150317_000401	{@st41}{Detale}
+UI_20150317_000402	{s20}{#050505}Opis potwora Opis potwora Opis potwora Opis potwora 
+UI_20150317_000403	{@st41} Zabójstwo {/}
+UI_20150317_000404	{@st41} Morderstwo {/}
+UI_20150317_000405	{@st41} Normalne zabójstwo {/}
+UI_20150317_000406	{@st41} Lokacja {/}
+UI_20150317_000407	{@st41} Przedmiot {/}
+UI_20150317_000408	{@st41} Osiągnięcie {/}
+UI_20150317_000409	Objekt
 UI_20150317_000410	{@st43}Necronomicon{/}
-UI_20150317_000411	{@st59}Close Necronomicon UI{/}
-UI_20150317_000412	{@st59}I am too lazy to think.{/}
-UI_20150317_000413	Summoning Item : {#ffcc33}%s{/}
-UI_20150317_000414	Undead Harpy
-UI_20150317_000415	Skill : %s
-UI_20150317_000416	Skill 1, Skill 2
-UI_20150317_000417	Fragments needed : %s
-UI_20150317_000418	Beast 60 / Insect 20/ Mutant 10
-UI_20150317_000419	Number of fragments
-UI_20150317_000420	Parts 1
-UI_20150317_000421	Parts 2
-UI_20150317_000422	Parts 3
-UI_20150317_000423	Congratulations! Your level has increased.
-UI_20150317_000424	Item Alarm
-UI_20150317_000425	{@st64}Details{/}
-UI_20150317_000426	How to Play
-UI_20150317_000427	{@st42b}          Move once with each of the keys{/}
-UI_20150317_000428	{@st42b}      Use a basic attack{/}
-UI_20150317_000429	{@st42b}                Jump up{/}
-UI_20150317_000430	{@st42b}Use two keys together to move diagonally{/}
-UI_20150317_000431	Fog Map Tool
-UI_20150317_000432	Tool for killing monsters
-UI_20150317_000433	Tool for making minimap
-UI_20150317_000434	Dialogue tool
-UI_20150317_000435	{@st43}GM Settings{/}
-UI_20150317_000436	{@st59}Close Party Information{/}
+UI_20150317_000411	{@st59}Zamknij UI Necronomiconu{/}
+UI_20150317_000412	{@st59}Jestem zbyt leniwy by myśleć.{/}
+UI_20150317_000413	Przywoływanie przedmiotu : {#ffcc33}%s{/}
+UI_20150317_000414	Nieumarła Harpia
+UI_20150317_000415	Umiejętność : %s
+UI_20150317_000416	Umiejętność 1, Umiejętność 2
+UI_20150317_000417	Fragmenty potrzebne : %s
+UI_20150317_000418	Bestie 60 / Insekty 20/ Mutanty 10
+UI_20150317_000419	Numer fragmentów
+UI_20150317_000420	Cześci 1
+UI_20150317_000421	Części 2
+UI_20150317_000422	Cześci 3
+UI_20150317_000423	Gratulację! Twój poziom podniósł się.
+UI_20150317_000424	Przypomnienie przedmiotu
+UI_20150317_000425	{@st64}Detale{/}
+UI_20150317_000426	Jak grać
+UI_20150317_000427	{@st42b}          Rusz się każdym klawiszem{/}
+UI_20150317_000428	{@st42b}      Użyj podstawowego ataku{/}
+UI_20150317_000429	{@st42b}                Podskocz{/}
+UI_20150317_000430	{@st42b}Użyj dwóch klawiszy na raz aby poruszyć się ukośnie{/}
+UI_20150317_000431	Narzędzie zaciemnienia mapy
+UI_20150317_000432	Narzędzia zabijania potworów
+UI_20150317_000433	Narzędzia tworzenia minimapy
+UI_20150317_000434	Narzędzia dialogowe
+UI_20150317_000435	{@st43}Ustawienia Mistrza Gry{/}
+UI_20150317_000436	{@st59}Zamknij informacje o drużynie{/}
 UI_20150317_000437	{@st59b} Party Information {nl} {@st59s} - Press the Create Party button at the bottom to form a party {nl} - Right-click on other players to send a party invite {nl} - Changes can be made to the party through the Settings tab {nl} - Apply specific conditions to search for party members from the Public Party list {/}
 UI_20150317_000438	{@st43}Party Information{/}
 UI_20150317_000439	{@st41b}Members{/}
